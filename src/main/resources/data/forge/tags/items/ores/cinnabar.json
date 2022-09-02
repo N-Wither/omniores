@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:cinnabar_ore_andesite",
+    "omniores:cinnabar_ore_basalt",
+    "omniores:cinnabar_ore_blackstone",
+    "omniores:cinnabar_ore_calcite",
+    "omniores:cinnabar_ore_deepslate",
+    "omniores:cinnabar_ore_diorite",
+    "omniores:cinnabar_ore_end_stone",
+    "omniores:cinnabar_ore_granite",
+    "omniores:cinnabar_ore_netherrack",
+    "omniores:cinnabar_ore_stone",
+    "omniores:cinnabar_ore_tuff",
+    "omniores:cinnabar_ore_create_limestone",
+    "omniores:cinnabar_ore_create_scoria",
+    "omniores:cinnabar_ore_create_scorchia",
+    "omniores:cinnabar_ore_quark_jasper",
+    "omniores:cinnabar_ore_quark_limestone",
+    "omniores:cinnabar_ore_quark_shale"
+  ]
+}

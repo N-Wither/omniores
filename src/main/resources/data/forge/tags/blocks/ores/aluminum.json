@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:aluminum_ore_andesite",
+    "omniores:aluminum_ore_basalt",
+    "omniores:aluminum_ore_blackstone",
+    "omniores:aluminum_ore_calcite",
+    "omniores:aluminum_ore_deepslate",
+    "omniores:aluminum_ore_diorite",
+    "omniores:aluminum_ore_end_stone",
+    "omniores:aluminum_ore_granite",
+    "omniores:aluminum_ore_netherrack",
+    "omniores:aluminum_ore_stone",
+    "omniores:aluminum_ore_tuff",
+    "omniores:aluminum_ore_create_limestone",
+    "omniores:aluminum_ore_create_scoria",
+    "omniores:aluminum_ore_create_scorchia",
+    "omniores:aluminum_ore_quark_jasper",
+    "omniores:aluminum_ore_quark_limestone",
+    "omniores:aluminum_ore_quark_shale"
+  ]
+}

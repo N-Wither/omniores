@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#I#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ingots/zinc"
+    },
+    "I": {
+      "tag": "forge:nuggets/iron"
+    }
+  },
+  "result": {
+    "item": "omniores:zinc_gear"
+  }
+}

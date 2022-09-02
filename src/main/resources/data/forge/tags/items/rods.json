@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "omniores:tin_rod",
+    "omniores:lead_rod",
+    "omniores:nickel_rod",
+    "omniores:zinc_rod",
+    "omniores:aluminum_rod",
+    "omniores:silver_rod",
+    "omniores:cobalt_rod",
+    "omniores:osmium_rod",
+    "omniores:iridium_rod",
+    "omniores:uranium_rod",
+    "omniores:bronze_rod",
+    "omniores:brass_rod",
+    "omniores:steel_rod",
+    "omniores:electrum_rod",
+    "omniores:invar_rod",
+    "omniores:constantan_rod",
+    "omniores:signalum_rod",
+    "omniores:lumium_rod",
+    "omniores:enderium_rod",
+    "omniores:iron_rod",
+    "omniores:gold_rod",
+    "omniores:copper_rod",
+    "omniores:netherite_rod",
+    "omniores:lapis_rod",
+    "omniores:diamond_rod",
+    "omniores:emerald_rod",
+    "omniores:ruby_rod",
+    "omniores:sapphire_rod"
+  ]
+}

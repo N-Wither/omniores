@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:tin_ore_andesite",
+    "omniores:tin_ore_basalt",
+    "omniores:tin_ore_blackstone",
+    "omniores:tin_ore_calcite",
+    "omniores:tin_ore_deepslate",
+    "omniores:tin_ore_diorite",
+    "omniores:tin_ore_end_stone",
+    "omniores:tin_ore_granite",
+    "omniores:tin_ore_netherrack",
+    "omniores:tin_ore_stone",
+    "omniores:tin_ore_tuff",
+    "omniores:tin_ore_create_limestone",
+    "omniores:tin_ore_create_scoria",
+    "omniores:tin_ore_create_scorchia",
+    "omniores:tin_ore_quark_jasper",
+    "omniores:tin_ore_quark_limestone",
+    "omniores:tin_ore_quark_shale"
+  ]
+}

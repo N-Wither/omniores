@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:fluorite_ore_andesite",
+    "omniores:fluorite_ore_basalt",
+    "omniores:fluorite_ore_blackstone",
+    "omniores:fluorite_ore_calcite",
+    "omniores:fluorite_ore_deepslate",
+    "omniores:fluorite_ore_diorite",
+    "omniores:fluorite_ore_end_stone",
+    "omniores:fluorite_ore_granite",
+    "omniores:fluorite_ore_netherrack",
+    "omniores:fluorite_ore_stone",
+    "omniores:fluorite_ore_tuff",
+    "omniores:fluorite_ore_create_limestone",
+    "omniores:fluorite_ore_create_scoria",
+    "omniores:fluorite_ore_create_scorchia",
+    "omniores:fluorite_ore_quark_jasper",
+    "omniores:fluorite_ore_quark_limestone",
+    "omniores:fluorite_ore_quark_shale"
+  ]
+}

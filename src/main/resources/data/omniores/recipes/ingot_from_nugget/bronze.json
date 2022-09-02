@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "omniores",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:nuggets/bronze"
+    }
+  },
+  "result": {
+    "item": "omniores:bronze_ingot"
+  }
+}

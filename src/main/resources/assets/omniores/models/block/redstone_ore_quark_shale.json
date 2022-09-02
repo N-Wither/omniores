@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "omniores:block/redstone_ore_quark_shale"
+  }
+}

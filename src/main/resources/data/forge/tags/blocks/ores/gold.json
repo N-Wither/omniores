@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:gold_ore_andesite",
+    "omniores:gold_ore_basalt",
+    "omniores:gold_ore_blackstone",
+    "omniores:gold_ore_calcite",
+    "omniores:gold_ore_deepslate",
+    "omniores:gold_ore_diorite",
+    "omniores:gold_ore_end_stone",
+    "omniores:gold_ore_granite",
+    "omniores:gold_ore_netherrack",
+    "omniores:gold_ore_stone",
+    "omniores:gold_ore_tuff",
+    "omniores:gold_ore_create_limestone",
+    "omniores:gold_ore_create_scoria",
+    "omniores:gold_ore_create_scorchia",
+    "omniores:gold_ore_quark_jasper",
+    "omniores:gold_ore_quark_limestone",
+    "omniores:gold_ore_quark_shale"
+  ]
+}

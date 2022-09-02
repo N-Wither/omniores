@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "omniores",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/cobalt"
+    }
+  ],
+  "result": {
+    "item": "omniores:cobalt_nugget",
+    "count": 9
+  }
+}

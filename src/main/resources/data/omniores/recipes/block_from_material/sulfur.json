@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "omniores",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/sulfur"
+    }
+  },
+  "result": {
+    "item": "omniores:sulfur_block"
+  }
+}

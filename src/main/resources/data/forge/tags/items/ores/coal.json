@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:coal_ore_andesite",
+    "omniores:coal_ore_basalt",
+    "omniores:coal_ore_blackstone",
+    "omniores:coal_ore_calcite",
+    "omniores:coal_ore_deepslate",
+    "omniores:coal_ore_diorite",
+    "omniores:coal_ore_end_stone",
+    "omniores:coal_ore_granite",
+    "omniores:coal_ore_netherrack",
+    "omniores:coal_ore_stone",
+    "omniores:coal_ore_tuff",
+    "omniores:coal_ore_create_limestone",
+    "omniores:coal_ore_create_scoria",
+    "omniores:coal_ore_create_scorchia",
+    "omniores:coal_ore_quark_jasper",
+    "omniores:coal_ore_quark_limestone",
+    "omniores:coal_ore_quark_shale"
+  ]
+}

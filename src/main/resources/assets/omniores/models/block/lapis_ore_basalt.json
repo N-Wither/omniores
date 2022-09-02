@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "omniores:block/lapis_ore_basalt"
+  }
+}

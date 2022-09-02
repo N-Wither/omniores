@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:cobalt_ore_andesite",
+    "omniores:cobalt_ore_basalt",
+    "omniores:cobalt_ore_blackstone",
+    "omniores:cobalt_ore_calcite",
+    "omniores:cobalt_ore_deepslate",
+    "omniores:cobalt_ore_diorite",
+    "omniores:cobalt_ore_end_stone",
+    "omniores:cobalt_ore_granite",
+    "omniores:cobalt_ore_netherrack",
+    "omniores:cobalt_ore_stone",
+    "omniores:cobalt_ore_tuff",
+    "omniores:cobalt_ore_create_limestone",
+    "omniores:cobalt_ore_create_scoria",
+    "omniores:cobalt_ore_create_scorchia",
+    "omniores:cobalt_ore_quark_jasper",
+    "omniores:cobalt_ore_quark_limestone",
+    "omniores:cobalt_ore_quark_shale"
+  ]
+}

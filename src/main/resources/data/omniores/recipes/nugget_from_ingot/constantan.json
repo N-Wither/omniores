@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "omniores",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/constantan"
+    }
+  ],
+  "result": {
+    "item": "omniores:constantan_nugget",
+    "count": 9
+  }
+}

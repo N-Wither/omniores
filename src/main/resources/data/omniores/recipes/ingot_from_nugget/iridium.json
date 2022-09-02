@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "omniores",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:nuggets/iridium"
+    }
+  },
+  "result": {
+    "item": "omniores:iridium_ingot"
+  }
+}

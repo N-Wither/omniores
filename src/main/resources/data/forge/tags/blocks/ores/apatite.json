@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:apatite_ore_andesite",
+    "omniores:apatite_ore_basalt",
+    "omniores:apatite_ore_blackstone",
+    "omniores:apatite_ore_calcite",
+    "omniores:apatite_ore_deepslate",
+    "omniores:apatite_ore_diorite",
+    "omniores:apatite_ore_end_stone",
+    "omniores:apatite_ore_granite",
+    "omniores:apatite_ore_netherrack",
+    "omniores:apatite_ore_stone",
+    "omniores:apatite_ore_tuff",
+    "omniores:apatite_ore_create_limestone",
+    "omniores:apatite_ore_create_scoria",
+    "omniores:apatite_ore_create_scorchia",
+    "omniores:apatite_ore_quark_jasper",
+    "omniores:apatite_ore_quark_limestone",
+    "omniores:apatite_ore_quark_shale"
+  ]
+}

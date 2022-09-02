@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:silver_ore_andesite",
+    "omniores:silver_ore_basalt",
+    "omniores:silver_ore_blackstone",
+    "omniores:silver_ore_calcite",
+    "omniores:silver_ore_deepslate",
+    "omniores:silver_ore_diorite",
+    "omniores:silver_ore_end_stone",
+    "omniores:silver_ore_granite",
+    "omniores:silver_ore_netherrack",
+    "omniores:silver_ore_stone",
+    "omniores:silver_ore_tuff",
+    "omniores:silver_ore_create_limestone",
+    "omniores:silver_ore_create_scoria",
+    "omniores:silver_ore_create_scorchia",
+    "omniores:silver_ore_quark_jasper",
+    "omniores:silver_ore_quark_limestone",
+    "omniores:silver_ore_quark_shale"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "omniores:tin_ingot",
+    "omniores:lead_ingot",
+    "omniores:nickel_ingot",
+    "omniores:zinc_ingot",
+    "omniores:aluminum_ingot",
+    "omniores:silver_ingot",
+    "omniores:cobalt_ingot",
+    "omniores:osmium_ingot",
+    "omniores:iridium_ingot",
+    "omniores:uranium_ingot",
+    "omniores:bronze_ingot",
+    "omniores:brass_ingot",
+    "omniores:steel_ingot",
+    "omniores:electrum_ingot",
+    "omniores:invar_ingot",
+    "omniores:constantan_ingot",
+    "omniores:signalum_ingot",
+    "omniores:lumium_ingot",
+    "omniores:enderium_ingot"
+  ]
+}

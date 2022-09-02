@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "omniores",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/osmium"
+    }
+  ],
+  "result": {
+    "item": "omniores:osmium_nugget",
+    "count": 9
+  }
+}

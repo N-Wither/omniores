@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "omniores",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/sapphire"
+    }
+  ],
+  "result": {
+    "item": "omniores:sapphire_gem",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "omniores",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/nickel"
+    }
+  ],
+  "result": {
+    "item": "omniores:nickel_nugget",
+    "count": 9
+  }
+}

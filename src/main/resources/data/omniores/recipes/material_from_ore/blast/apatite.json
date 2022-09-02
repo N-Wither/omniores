@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:ores/apatite"
+  },
+  "result": "omniores:apatite_gem",
+  "experience": 0.7,
+  "cookingtime": 100
+}

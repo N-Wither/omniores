@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:ruby_ore_andesite",
+    "omniores:ruby_ore_basalt",
+    "omniores:ruby_ore_blackstone",
+    "omniores:ruby_ore_calcite",
+    "omniores:ruby_ore_deepslate",
+    "omniores:ruby_ore_diorite",
+    "omniores:ruby_ore_end_stone",
+    "omniores:ruby_ore_granite",
+    "omniores:ruby_ore_netherrack",
+    "omniores:ruby_ore_stone",
+    "omniores:ruby_ore_tuff",
+    "omniores:ruby_ore_create_limestone",
+    "omniores:ruby_ore_create_scoria",
+    "omniores:ruby_ore_create_scorchia",
+    "omniores:ruby_ore_quark_jasper",
+    "omniores:ruby_ore_quark_limestone",
+    "omniores:ruby_ore_quark_shale"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "omniores",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/aluminum"
+    }
+  ],
+  "result": {
+    "item": "omniores:aluminum_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:nickel_ore_andesite",
+    "omniores:nickel_ore_basalt",
+    "omniores:nickel_ore_blackstone",
+    "omniores:nickel_ore_calcite",
+    "omniores:nickel_ore_deepslate",
+    "omniores:nickel_ore_diorite",
+    "omniores:nickel_ore_end_stone",
+    "omniores:nickel_ore_granite",
+    "omniores:nickel_ore_netherrack",
+    "omniores:nickel_ore_stone",
+    "omniores:nickel_ore_tuff",
+    "omniores:nickel_ore_create_limestone",
+    "omniores:nickel_ore_create_scoria",
+    "omniores:nickel_ore_create_scorchia",
+    "omniores:nickel_ore_quark_jasper",
+    "omniores:nickel_ore_quark_limestone",
+    "omniores:nickel_ore_quark_shale"
+  ]
+}

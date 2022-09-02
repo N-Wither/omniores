@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "omniores:tin_block",
+    "omniores:lead_block",
+    "omniores:nickel_block",
+    "omniores:zinc_block",
+    "omniores:aluminum_block",
+    "omniores:silver_block",
+    "omniores:cobalt_block",
+    "omniores:osmium_block",
+    "omniores:iridium_block",
+    "omniores:uranium_block",
+    "omniores:bronze_block",
+    "omniores:brass_block",
+    "omniores:steel_block",
+    "omniores:electrum_block",
+    "omniores:invar_block",
+    "omniores:constantan_block",
+    "omniores:signalum_block",
+    "omniores:lumium_block",
+    "omniores:enderium_block",
+    "omniores:ruby_block",
+    "omniores:sapphire_block",
+    "omniores:sulfur_block",
+    "omniores:cinnabar_block",
+    "omniores:potassium_nitrate_block",
+    "omniores:apatite_block",
+    "omniores:fluorite_block",
+    "omniores:coal_coke_block",
+    "omniores:charcoal_block"
+  ]
+}

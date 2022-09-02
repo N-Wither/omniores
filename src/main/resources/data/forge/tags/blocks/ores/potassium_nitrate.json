@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:potassium_nitrate_ore_andesite",
+    "omniores:potassium_nitrate_ore_basalt",
+    "omniores:potassium_nitrate_ore_blackstone",
+    "omniores:potassium_nitrate_ore_calcite",
+    "omniores:potassium_nitrate_ore_deepslate",
+    "omniores:potassium_nitrate_ore_diorite",
+    "omniores:potassium_nitrate_ore_end_stone",
+    "omniores:potassium_nitrate_ore_granite",
+    "omniores:potassium_nitrate_ore_netherrack",
+    "omniores:potassium_nitrate_ore_stone",
+    "omniores:potassium_nitrate_ore_tuff",
+    "omniores:potassium_nitrate_ore_create_limestone",
+    "omniores:potassium_nitrate_ore_create_scoria",
+    "omniores:potassium_nitrate_ore_create_scorchia",
+    "omniores:potassium_nitrate_ore_quark_jasper",
+    "omniores:potassium_nitrate_ore_quark_limestone",
+    "omniores:potassium_nitrate_ore_quark_shale"
+  ]
+}

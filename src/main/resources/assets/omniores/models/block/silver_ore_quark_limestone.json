@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "omniores:block/silver_ore_quark_limestone"
+  }
+}

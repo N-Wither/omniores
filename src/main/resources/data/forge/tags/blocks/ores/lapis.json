@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:lapis_ore_andesite",
+    "omniores:lapis_ore_basalt",
+    "omniores:lapis_ore_blackstone",
+    "omniores:lapis_ore_calcite",
+    "omniores:lapis_ore_deepslate",
+    "omniores:lapis_ore_diorite",
+    "omniores:lapis_ore_end_stone",
+    "omniores:lapis_ore_granite",
+    "omniores:lapis_ore_netherrack",
+    "omniores:lapis_ore_stone",
+    "omniores:lapis_ore_tuff",
+    "omniores:lapis_ore_create_limestone",
+    "omniores:lapis_ore_create_scoria",
+    "omniores:lapis_ore_create_scorchia",
+    "omniores:lapis_ore_quark_jasper",
+    "omniores:lapis_ore_quark_limestone",
+    "omniores:lapis_ore_quark_shale"
+  ]
+}

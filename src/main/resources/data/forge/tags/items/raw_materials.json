@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "omniores:raw_tin",
+    "omniores:raw_lead",
+    "omniores:raw_nickel",
+    "omniores:raw_zinc",
+    "omniores:raw_aluminum",
+    "omniores:raw_silver",
+    "omniores:raw_cobalt",
+    "omniores:raw_osmium",
+    "omniores:raw_iridium",
+    "omniores:raw_uranium"
+  ]
+}

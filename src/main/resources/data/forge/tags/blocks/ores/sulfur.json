@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:sulfur_ore_andesite",
+    "omniores:sulfur_ore_basalt",
+    "omniores:sulfur_ore_blackstone",
+    "omniores:sulfur_ore_calcite",
+    "omniores:sulfur_ore_deepslate",
+    "omniores:sulfur_ore_diorite",
+    "omniores:sulfur_ore_end_stone",
+    "omniores:sulfur_ore_granite",
+    "omniores:sulfur_ore_netherrack",
+    "omniores:sulfur_ore_stone",
+    "omniores:sulfur_ore_tuff",
+    "omniores:sulfur_ore_create_limestone",
+    "omniores:sulfur_ore_create_scoria",
+    "omniores:sulfur_ore_create_scorchia",
+    "omniores:sulfur_ore_quark_jasper",
+    "omniores:sulfur_ore_quark_limestone",
+    "omniores:sulfur_ore_quark_shale"
+  ]
+}

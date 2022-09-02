@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "omniores:tin_nugget",
+    "omniores:lead_nugget",
+    "omniores:nickel_nugget",
+    "omniores:zinc_nugget",
+    "omniores:aluminum_nugget",
+    "omniores:silver_nugget",
+    "omniores:cobalt_nugget",
+    "omniores:osmium_nugget",
+    "omniores:iridium_nugget",
+    "omniores:uranium_nugget",
+    "omniores:bronze_nugget",
+    "omniores:brass_nugget",
+    "omniores:steel_nugget",
+    "omniores:electrum_nugget",
+    "omniores:invar_nugget",
+    "omniores:constantan_nugget",
+    "omniores:signalum_nugget",
+    "omniores:lumium_nugget",
+    "omniores:enderium_nugget",
+    "omniores:copper_nugget",
+    "omniores:netherite_nugget"
+  ]
+}

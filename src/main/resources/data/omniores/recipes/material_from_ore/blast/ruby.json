@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "forge:ores/ruby"
+  },
+  "result": "omniores:ruby_gem",
+  "experience": 0.7,
+  "cookingtime": 100
+}

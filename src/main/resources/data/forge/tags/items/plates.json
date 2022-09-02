@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "omniores:tin_plate",
+    "omniores:lead_plate",
+    "omniores:nickel_plate",
+    "omniores:zinc_plate",
+    "omniores:aluminum_plate",
+    "omniores:silver_plate",
+    "omniores:cobalt_plate",
+    "omniores:osmium_plate",
+    "omniores:iridium_plate",
+    "omniores:uranium_plate",
+    "omniores:bronze_plate",
+    "omniores:brass_plate",
+    "omniores:steel_plate",
+    "omniores:electrum_plate",
+    "omniores:invar_plate",
+    "omniores:constantan_plate",
+    "omniores:signalum_plate",
+    "omniores:lumium_plate",
+    "omniores:enderium_plate",
+    "omniores:iron_plate",
+    "omniores:gold_plate",
+    "omniores:copper_plate",
+    "omniores:netherite_plate",
+    "omniores:lapis_plate",
+    "omniores:diamond_plate",
+    "omniores:emerald_plate",
+    "omniores:ruby_plate",
+    "omniores:sapphire_plate"
+  ]
+}

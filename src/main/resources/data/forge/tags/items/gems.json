@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "omniores:ruby_gem",
+    "omniores:sapphire_gem",
+    "omniores:sulfur_gem",
+    "omniores:coal_coke_gem",
+    "omniores:cinnabar_gem",
+    "omniores:potassium_nitrate_gem",
+    "omniores:fluorite_gem",
+    "omniores:apatite_gem",
+    "omniores:silicon"
+  ]
+}

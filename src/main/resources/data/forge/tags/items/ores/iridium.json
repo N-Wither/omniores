@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:iridium_ore_andesite",
+    "omniores:iridium_ore_basalt",
+    "omniores:iridium_ore_blackstone",
+    "omniores:iridium_ore_calcite",
+    "omniores:iridium_ore_deepslate",
+    "omniores:iridium_ore_diorite",
+    "omniores:iridium_ore_end_stone",
+    "omniores:iridium_ore_granite",
+    "omniores:iridium_ore_netherrack",
+    "omniores:iridium_ore_stone",
+    "omniores:iridium_ore_tuff",
+    "omniores:iridium_ore_create_limestone",
+    "omniores:iridium_ore_create_scoria",
+    "omniores:iridium_ore_create_scorchia",
+    "omniores:iridium_ore_quark_jasper",
+    "omniores:iridium_ore_quark_limestone",
+    "omniores:iridium_ore_quark_shale"
+  ]
+}

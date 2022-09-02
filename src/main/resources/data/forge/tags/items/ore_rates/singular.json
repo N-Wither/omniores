@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "omniores:iron_ore_deepslate",
+    "omniores:coal_ore_deepslate",
+    "omniores:gold_ore_deepslate",
+    "omniores:copper_ore_deepslate",
+    "omniores:silver_ore_deepslate",
+    "omniores:redstone_ore_deepslate",
+    "omniores:diamond_ore_deepslate",
+    "omniores:lapis_ore_deepslate",
+    "omniores:emerald_ore_deepslate",
+    "omniores:quartz_ore_deepslate",
+    "omniores:tin_ore_deepslate",
+    "omniores:lead_ore_deepslate",
+    "omniores:nickel_ore_deepslate",
+    "omniores:zinc_ore_deepslate",
+    "omniores:aluminum_ore_deepslate",
+    "omniores:cobalt_ore_deepslate",
+    "omniores:osmium_ore_deepslate",
+    "omniores:iridium_ore_deepslate",
+    "omniores:uranium_ore_deepslate",
+    "omniores:ruby_ore_deepslate",
+    "omniores:sapphire_ore_deepslate",
+    "omniores:sulfur_ore_deepslate",
+    "omniores:cinnabar_ore_deepslate",
+    "omniores:potassium_nitrate_ore_deepslate",
+    "omniores:apatite_ore_deepslate",
+    "omniores:fluorite_ore_deepslate"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "raplace": false,
+  "values": [
+    "omniores:quartz_ore_andesite",
+    "omniores:quartz_ore_basalt",
+    "omniores:quartz_ore_blackstone",
+    "omniores:quartz_ore_calcite",
+    "omniores:quartz_ore_deepslate",
+    "omniores:quartz_ore_diorite",
+    "omniores:quartz_ore_end_stone",
+    "omniores:quartz_ore_granite",
+    "omniores:quartz_ore_netherrack",
+    "omniores:quartz_ore_stone",
+    "omniores:quartz_ore_tuff",
+    "omniores:quartz_ore_create_limestone",
+    "omniores:quartz_ore_create_scoria",
+    "omniores:quartz_ore_create_scorchia",
+    "omniores:quartz_ore_quark_jasper",
+    "omniores:quartz_ore_quark_limestone",
+    "omniores:quartz_ore_quark_shale"
+  ]
+}
