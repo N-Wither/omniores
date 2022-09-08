@@ -16,7 +16,7 @@ plugins {
 apply plugin: 'net.minecraftforge.gradle'
 
 
-version = '0.1.5'
+version = '0.1.6'
 group = 'net.nwitherkawaii.omniores' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'omniores'
 
